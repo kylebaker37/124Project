@@ -1,4 +1,10 @@
+Kyle Baker
+ID: 604273748
+Project Webpage: www.kylecbaker.com/cm124project
+
 This is all the code I created for my Haplotype Phasing: Minimum Parsimony Formulation project. The code in main.py parses command-line input and runs the code. tester.py contains a tester class that runs tests on the results and analyzes them to make sure they're correct. optimal.py, exhaustive.py, and greedy.py contain the optimal, exhaustive, and greedy algorithms. testfile.py was a script I used to create random haplotype data with a given amount of SNPs and individuals.
+
+I also included the results of my greedy algorithm on the test and training files provided. Those are in the "results" directory.
 
 To run the code, type python main.py <options>
 
